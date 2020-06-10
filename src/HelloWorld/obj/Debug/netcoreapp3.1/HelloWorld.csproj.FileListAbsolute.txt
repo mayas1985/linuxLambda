@@ -1,0 +1,12 @@
+/home/xpanxion/aws2/aws2/src/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/home/xpanxion/aws2/aws2/src/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/home/xpanxion/aws2/aws2/src/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/home/xpanxion/aws2/aws2/src/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/home/xpanxion/aws2/aws2/src/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/home/xpanxion/aws2/aws2/src/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/home/xpanxion/aws2/aws2/src/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/home/xpanxion/aws2/aws2/src/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/home/xpanxion/aws2/aws2/src/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/home/xpanxion/aws2/aws2/src/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/home/xpanxion/aws2/aws2/src/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/home/xpanxion/aws2/aws2/src/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache

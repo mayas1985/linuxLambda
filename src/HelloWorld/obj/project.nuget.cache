@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "BHbFphADkkI3gPFbQQUCdpHFnT64gJ80rOA1s9LY21tCu9s2rEnS3pWSnNFJO5WRt/g10cQQIUtS71bHbTTunw==",
+  "success": true,
+  "projectFilePath": "/home/xpanxion/aws2/aws2/src/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/home/xpanxion/.nuget/packages/amazon.lambda.apigatewayevents/1.2.0/amazon.lambda.apigatewayevents.1.2.0.nupkg.sha512",
+    "/home/xpanxion/.nuget/packages/amazon.lambda.core/1.1.0/amazon.lambda.core.1.1.0.nupkg.sha512",
+    "/home/xpanxion/.nuget/packages/amazon.lambda.serialization.json/1.5.0/amazon.lambda.serialization.json.1.5.0.nupkg.sha512",
+    "/home/xpanxion/.nuget/packages/newtonsoft.json/12.0.1/newtonsoft.json.12.0.1.nupkg.sha512",
+    "/home/xpanxion/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/3.1.4/microsoft.netcore.app.runtime.linux-x64.3.1.4.nupkg.sha512",
+    "/home/xpanxion/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/3.1.4/microsoft.aspnetcore.app.runtime.linux-x64.3.1.4.nupkg.sha512",
+    "/home/xpanxion/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
